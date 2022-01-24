@@ -26,3 +26,7 @@ async function makePayment () {
         console.log(e);
     }
 }
+
+
+  //2 semis on line 189
+  //initMobile method
